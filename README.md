@@ -4,11 +4,7 @@ A simple and clean blog template based off of the [startbootstrap.com](https://s
 
 # Demo 🖥
 
-[Click here for the demo!](https://angular-clean-blog-template.firebaseapp.com/)
-
-## Screenshot 📷
-
-![Alt text](./screenshot/screenshot.png?raw=true "Clean Angular Blog")
+[Click here for the demo!](https://koshyviv.xyz/)
 
 # Built with 🔧
 
@@ -38,7 +34,7 @@ A simple and clean blog template based off of the [startbootstrap.com](https://s
 6. run `npm install`
 7. run `npm start` on backend and frontend :tada:
 
-## Author 👨‍💻
+## Original Author 👨‍💻
 
 [David Brookton](https://davidbrookton.com)
 
